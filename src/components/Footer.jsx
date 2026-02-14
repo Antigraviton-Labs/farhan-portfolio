@@ -1,5 +1,5 @@
 import React from "react";
-import { Linkedin, Mail } from "lucide-react";
+import { Linkedin, Mail, Github } from "lucide-react";
 
 const Footer = () => {
     return (
@@ -11,10 +11,11 @@ const Footer = () => {
                 </div>
 
                 <div className="flex gap-6 items-center">
-                    <a href="https://www.linkedin.com/in/farhan-bagwan24" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                    <a href="https://www.linkedin.com/in/farhan-bagwan24" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors" aria-label="LinkedIn Profile">
                         <Linkedin className="w-5 h-5" />
                     </a>
-                    <a href="mailto:farhanbagwann21@gmail.com" className="hover:text-white transition-colors">
+
+                    <a href="mailto:farhanbagwann21@gmail.com" className="hover:text-white transition-colors" aria-label="Send Email">
                         <Mail className="w-5 h-5" />
                     </a>
                 </div>

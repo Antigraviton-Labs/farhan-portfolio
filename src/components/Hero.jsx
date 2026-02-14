@@ -12,7 +12,7 @@ const Hero = () => {
                     <div className="w-[115px] h-[110px] rounded-full overflow-hidden mx-auto shadow-sm ring-1 ring-slate-900/5">
                         <img
                             src="/profilepic/pic4.jpeg"
-                            alt="Profile - Farhan Bagwan"
+                            alt="Farhan Bagwan — Business and Growth Analyst"
                             className="w-full h-full object-cover"
                             loading="lazy"
                         />
@@ -34,7 +34,7 @@ const Hero = () => {
                     </div>
 
                     <p className="text-lg text-slate-600 leading-relaxed font-light mt-4 max-w-[90%] mx-auto min-[600px]:max-w-lg min-[600px]:mx-0">
-                        Results-driven professional with experience across financial services, SaaS, and consulting-led environments. Skilled in driving business growth, process optimisation, and data-driven decision making through cross-functional collaboration.
+                        Farhan Bagwan is a results-driven professional with experience across financial services, SaaS, and consulting-led environments. Skilled in driving business growth, process optimisation, and data-driven decision making through cross-functional collaboration.
                     </p>
 
                     <div className="flex flex-row gap-3 pt-6 items-center justify-center min-[600px]:justify-start">
@@ -71,7 +71,7 @@ const Hero = () => {
                     <div className="w-full rounded-2xl overflow-hidden">
                         <img
                             src="/profilepic/pic4.jpeg"
-                            alt="Professional Portrait - Farhan Bagwan"
+                            alt="Farhan Bagwan Portfolio — Professional Portrait"
                             className="w-full h-auto object-cover"
                             loading="eager"
                             style={{ maxHeight: '608px' }}

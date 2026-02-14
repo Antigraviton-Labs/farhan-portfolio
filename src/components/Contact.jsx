@@ -64,7 +64,7 @@ const Contact = () => {
                         <div className="absolute inset-0 bg-gradient-to-tr from-slate-100/20 via-transparent to-slate-50/20 pointer-events-none" />
                         <img
                             src="/contactimage/contact.png"
-                            alt="Contact illustration"
+                            alt="Contact Farhan Bagwan — Business and Growth Analyst"
                             className="w-full h-full object-contain max-w-sm"
                             loading="lazy"
                         />

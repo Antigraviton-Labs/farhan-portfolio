@@ -29,7 +29,7 @@ const About = () => {
                         <div>
                             {/* Paragraph 1 - Intro */}
                             <p className="text-base md:text-lg lg:text-xl text-white font-light leading-relaxed md:leading-relaxed text-left max-w-full md:max-w-none">
-                                I am a results-driven <span className="font-medium text-white underline decoration-blue-400">business and growth professional</span> with hands-on experience in <span className="font-medium text-white underline decoration-blue-400">financial services</span>, <span className="font-medium text-white underline decoration-blue-400">B2C SaaS</span>, and <span className="font-medium text-white underline decoration-blue-400">consulting-led environments</span>. My work spans business management, financial performance analysis, stakeholder engagement, and project delivery across technology, operations, compliance, and legal teams.
+                                I am Farhan Bagwan, a results-driven <span className="font-medium text-white underline decoration-blue-400">business and growth professional</span> with hands-on experience in <span className="font-medium text-white underline decoration-blue-400">financial services</span>, <span className="font-medium text-white underline decoration-blue-400">B2C SaaS</span>, and <span className="font-medium text-white underline decoration-blue-400">consulting-led environments</span>. My work spans business management, financial performance analysis, stakeholder engagement, and project delivery across technology, operations, compliance, and legal teams.
                             </p>
 
                             {/* Divider */}
