@@ -60,7 +60,7 @@ const Contact = () => {
                 <div className="glass-card bg-white/80 backdrop-blur-lg rounded-2xl shadow-2xl overflow-hidden border border-slate-200/80 grid md:grid-cols-2 min-h-[500px] hover:shadow-3xl hover:border-slate-300/80 transition-colors duration-200">
 
                     {/* LEFT COLUMN: Contact Image */}
-                    <div className="relative bg-gradient-to-br from-slate-50/50 to-slate-100/50 backdrop-blur-sm border-r border-slate-200/50 flex items-center justify-center p-8 overflow-hidden h-full order-last md:order-first group">
+                    <div className="relative bg-gradient-to-br from-slate-50/50 to-slate-100/50 backdrop-blur-sm border-r border-slate-200/50 flex items-center justify-center p-8 overflow-hidden min-h-[250px] md:h-full order-last md:order-first group">
                         <div className="absolute inset-0 bg-gradient-to-tr from-slate-100/20 via-transparent to-slate-50/20 pointer-events-none" />
                         <img
                             src="/contactimage/contact.png"

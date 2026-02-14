@@ -11,7 +11,7 @@ const Hero = () => {
                 <div className="min-[600px]:hidden flex items-center justify-center pt-6 mb-5">
                     <div className="w-[115px] h-[110px] rounded-full overflow-hidden mx-auto shadow-sm ring-1 ring-slate-900/5">
                         <img
-                            src="/profilepic/pic4.jpg"
+                            src="/profilepic/pic4.jpeg"
                             alt="Profile - Farhan Bagwan"
                             className="w-full h-full object-cover"
                             loading="lazy"
